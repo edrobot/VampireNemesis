@@ -1,1 +1,6 @@
+$name : My Generator
+$author : Author
+$description : Description of my generator
+$button : Another
 
+There's a horse on the stairs.
