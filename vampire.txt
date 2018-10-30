@@ -3,4 +3,5 @@ $author : Author
 $description : Description of my generator
 $button : Another
 
+$output
 There's a horse on the stairs.
